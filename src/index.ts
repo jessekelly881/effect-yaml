@@ -55,6 +55,9 @@ export const parseYaml = <I, A extends string>(
 	);
 };
 
+/**
+ * @since 1.0.0
+ */
 export const ParseYaml: Schema.Schema<string, unknown> = parseYaml(
 	Schema.string
 );
