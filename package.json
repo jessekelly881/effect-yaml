@@ -1,6 +1,6 @@
 {
   "name": "effect-yaml",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Effect-ts utils for working with yaml",
   "private": false,
   "main": "./dist/index.js",
