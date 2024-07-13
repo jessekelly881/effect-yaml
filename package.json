@@ -25,7 +25,7 @@
     "publish": "changeset publish",
     "docs": "docgen",
     "gen": "plop",
-    "postinstall": "husky install"
+    "prepare": "husky install"
   },
   "author": "Jesse Kelly",
   "license": "MIT",
