@@ -6,6 +6,9 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+  "files": [
+    "./dist/"
+  ],
   "homepage": "https://github.com/jessekelly881/effect-yaml/blob/master/README.md",
   "repository": {
     "type": "git",
