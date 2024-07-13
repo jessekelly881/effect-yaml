@@ -6,12 +6,15 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "homepage": "",
-  "tags": [
-    "typescript"
-  ],
+  "homepage": "https://github.com/jessekelly881/effect-yaml/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jessekelly881/effect-yaml.git"
+  },
   "keywords": [
-    "typescript"
+    "typescript",
+    "effect",
+    "yaml"
   ],
   "scripts": {
     "build": "tsup src/**/*.ts --format cjs,esm --dts",
